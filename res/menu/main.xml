@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menuItemHola" android:title="@string/hello_world"></item>
+    <item android:id="@+id/menuItemImagen" android:title="@string/imagen"></item>
+    <item android:id="@+id/menuItemCal" android:title="@string/calendario"></item>
+    <item android:id="@+id/menuItemWeb" android:title="@string/web"></item>
+    <item android:id="@+id/menuItemSalir" android:title="@string/salir"></item>
+</menu>
